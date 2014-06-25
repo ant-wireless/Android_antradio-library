@@ -1,0 +1,2 @@
+# Android ANT Legacy Compatibility Library
+This library is required to maintain backwards compatibility with certain version of the Android ANT stack. This is an "empty" library and does not provide any explicit functionality.

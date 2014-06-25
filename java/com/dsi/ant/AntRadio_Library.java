@@ -1,4 +1,4 @@
-package com.dsi.ant.dummy;
+package com.dsi.ant;
 
 public final class AntRadio_Library
 {
