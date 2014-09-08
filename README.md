@@ -1,2 +1,2 @@
 # Android ANT Legacy Compatibility Library
-This non-functional library is required to be installed on the system for legacy compatibility purposes and its presence indicates built-in ANT support.
+This library is required to be installed in system builds that support ANT. Its presence in the system indicates built-in ANT support for some compatibility checks, specifically for apps using the legacy AntLib interface.
